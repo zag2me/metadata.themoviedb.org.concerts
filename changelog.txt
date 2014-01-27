@@ -1,0 +1,3 @@
+[B]1.0.0[/B]
+- New Concert Add-on synced with TheMovieDB.org scraper
+- New icon
